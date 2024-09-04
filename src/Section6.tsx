@@ -16,7 +16,7 @@ export const Section6=()=>{
         <p></p>
         <Grid container xs={12}>
             <Grid xs={2.2}>
-                <TextField label="アイテム1" InputLabelProps={{shrink:true}}/>
+                <TextField label="アイテム1xx" InputLabelProps={{shrink:true}}/>
             </Grid>
             <Grid xs={2.2}>
                 <TextField label="アイテム2" InputLabelProps={{shrink:true}}/>
